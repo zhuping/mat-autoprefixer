@@ -1,0 +1,25 @@
+{
+  "name": "mat-autoprefixer",
+  "version": "0.0.1",
+  "description": "Prefix CSS for mat",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zhuping/mat-autoprefixer.git"
+  },
+  "keywords": [
+    "mat",
+    "postcss",
+    "autoprefixer"
+  ],
+  "author": "zhuping.zp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhuping/mat-autoprefixer/issues"
+  },
+  "homepage": "https://github.com/zhuping/mat-autoprefixer#readme",
+  "dependencies": {
+    "autoprefixer": "^7.1.1",
+    "postcss": "^6.0.5"
+  }
+}
